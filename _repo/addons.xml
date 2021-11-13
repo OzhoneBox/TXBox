@@ -61,7 +61,7 @@
   </extension>
 </addon>
 
-    <addon id="TXBox" name="TXBox" version="0.0.0" provider-name="Ozhone">
+    <addon id="TXBox" name="TXBox" version="0.0.1" provider-name="Ozhone">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
