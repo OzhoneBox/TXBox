@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
+<addon
+	id="plugin.video.atresplayerchopo" version="4.0" name="[B][COLOR white]atresplayer[COLOR gold] chopo[/COLOR][/B]" provider-name="equipo tvchopo">
+<requires>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.resolveurl" />
+    <import addon="script.module.six" />
+  </requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+
+	 <extension point="xbmc.addon.repository" name="tvchopo">
+        <info>https://raw.githubusercontent.com/elchocolate/repotvchopo/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/elchocolate/repotvchopo/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/elchocolate/repotvchopo/master/Repositorio/</datadir>
+    </extension>
+
+
+	<extension point="xbmc.addon.metadata">
+                <platform>all</platform>
+		<summary lang="en">atresplayerchopo</summary>
+		<summary lang="da">atresplayerchopo</summary>
+		<description lang="en">[B][LOWERCASE][CAPITALIZE][COLOR white]atresplayerchopo addon dedicado a la web mitele  de atresplayer para que disfrutes de su contenido [COLOR aqua] para cualquier consulta o problema  unete  a nuestro grupo de telegram [COLOR yellow]@tvchopo[/COLOR][/CAPITALIZE][/LOWERCASE][/B]</description>
+		<website></website>
+		<license>GPL 2.0</license>
+		<platform>all</platform>
+<assets>
+        <icon>icon.gif</icon>
+  <screenshot>resources/screenshots/screenshot1.jpg</screenshot>
+  <screenshot>resources/screenshots/screenshot2.jpg</screenshot>
+  <screenshot>resources/screenshots/screenshot3.jpg</screenshot>
+  <screenshot>resources/screenshots/screenshot4.jpg</screenshot>
+  <screenshot>resources/screenshots/screenshot5.jpg</screenshot>
+        <fanart>fanart.png</fanart>
+    </assets>
+		<language>es</language>
+	</extension>
+</addon>
+
 <addon id="plugin.video.tacones"
        name="[COLOR red]TACONES[/COLOR]"
        version="1.4"
@@ -90,7 +130,7 @@ Testers: Luisma, Toni, Zarat, SuperTopo, Jorge, Bojbit, MiKeL, Chikiry, Pau, Ale
     </extension>
 </addon>
 
-    <addon id="TXBox" name="TXBox" version="0.0.2" provider-name="Ozhone">
+    <addon id="TXBox" name="TXBox" version="0.0.4" provider-name="Ozhone">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
