@@ -151,7 +151,7 @@ Testers: Luisma, Toni, Zarat, SuperTopo, Jorge, Bojbit, MiKeL, Chikiry, Pau, Ale
     </extension>
 </addon>
 
-    <addon id="TXBox" name="TXBox" version="0.0.2" provider-name="Ozhone">
+    <addon id="TXBox" name="TXBox" version="0.0.3" provider-name="Ozhone">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
