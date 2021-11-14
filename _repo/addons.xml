@@ -251,7 +251,7 @@ Testers: Luisma, Toni, Zarat, SuperTopo, Jorge, Bojbit, MiKeL, Chikiry, Pau, Ale
     </extension>
 </addon>
 
-    <addon id="TXMedia" name="TXMedia" version="0.0.0" provider-name="TxeTxu">
+    <addon id="TXMedia" name="TXMedia" version="0.0.1" provider-name="TxeTxu">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
