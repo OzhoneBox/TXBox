@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <addon id="TXMedia" name="TXMedia" version="0.0.2" provider-name="TxeTxu">
+    <addon id="TXMedia" name="TXMedia" version="0.0.3" provider-name="TxeTxu">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
