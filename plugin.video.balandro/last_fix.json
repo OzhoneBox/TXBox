@@ -1,0 +1,51 @@
+{
+    "addon_version": "2.0.6", 
+    "files": {
+        "0": [
+            "platformcode", 
+            "platformtools.py"
+        ], 
+        "1": [
+            "channels", 
+            "torrentdivx.py"
+        ], 
+        "11": [
+            "servers", 
+            "upstream.py"
+        ], 
+        "12": [
+            "channels", 
+            "cuevana3video.py"
+        ], 
+        "2": [
+            "modules", 
+            "helper.py"
+        ], 
+        "3": [
+            "resources", 
+            "settings.xml"
+        ], 
+        "5": [
+            "modules", 
+            "filters.py"
+        ], 
+        "6": [
+            "channels", 
+            "tupeliculatv.py"
+        ], 
+        "7": [
+            "servers", 
+            "streamtape.py"
+        ], 
+        "8": [
+            "lib", 
+            "balandroresolver.py"
+        ], 
+        "9": [
+            "servers", 
+            "streamsb.py"
+        ]
+    }, 
+    "fix_version": 3, 
+    "hash": "66c982960677e57b7571d04cfe0e0343"
+}

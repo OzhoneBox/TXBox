@@ -1,0 +1,96 @@
+[COLOR coral]Balandro[/COLOR]
+
+Version 2.0.6  [COLOR darkorange]Septiembre 2021[/COLOR]
+
+   [COLOR yellow]INCIDENCIAS CORREGIDAS:[/COLOR]
+      Bugs de la version anterior
+
+   [COLOR yellow]MODIFICACIONES:[/COLOR]
+      Configuracion: Nuevo apartado Cuentas
+      Grupos: Nuevo apartado Especiales
+      Generos: Re-configurados
+
+      Canales:
+         AniBox, AnimeFenix, AnimeFlv, AreaDocumental,
+         AresHd, Beeg, CaricaturasHd, Ciberdocumentales,
+         CineCalidad, CineTux, ClasicoTv, Cliver, CliverSite,
+         ClubCine, Cuevana2Esp, Cuevana3, Cuevana3Mobi,
+         Cuevana3Video, CumLoader, DaftSex, Dilo, DixmaxLive,
+         DocumaniaTv, DocumentalesOnline,, DonTorrents,
+         EntrePeliculasySeries, EstrenosCinesaa, Gnula,
+         GranTorrent, HdFull, HdFullCom, HdFullSe, HentaiSd,
+         HomeCine, InkaPelis, JKanime, LaCartoons,
+         LegalmenteGratis, Mega1link, Megadede2, MegaSerie,
+         MejorTorrents, MiraDeTodo, MiraDocumentales,
+         MiraPeliculas, MonosChinos, MovidyMobi, MundoKaos,
+         NewPct1, PctFenix, PeliculasFlix, PeliculasFlv,
+         Pelis24, PelisForte, PelisGratis, PelisHouse,
+         PelisPedia, PelisPlanet, PelisPlay, PelisRetro,
+         PepeCinePro, PelisXd, PlayDede, PlayView, PornHd,
+         PornHub, PornTube, Ppeliculas, SeriesAnimadas,
+         SeriesAntiguas, SeriesFlix, SeriesFlixIo, SeriesKao,
+         SeriesLan, SeriesManta, SeriesMetro, SeriesPapayaTo,
+         SeriesPapayaXyz, SeriesRetro, SeriesYonkis, SerieZ,
+         SigloXX, SubTorrents, Tekilaz, TioAnime,
+         TorrentDivx, TubeHentai, TuCineClasico,
+         TuPeliculaTv, TuPeliHd, TvSeries,
+         VerDocumentalesOnline, VerPeliculasGratis, XVideos,
+         Zoowoman
+
+      Servidores:
+         Clicknupload, DoodStream, Evoload, Fastplay,
+         Fastream, Fembed, Gvideo, Mega, Sbembed, Streams3,
+         Streamsb, Streamtape, Uptobox, Uptostream, Vidoza,
+         Zplayer
+
+   [COLOR yellow]NOVEDADES:[/COLOR]
+      Canales:
+         MundoDesconocido, RePelis24, RepelisHd
+
+      Servidores:
+         Highload, Stream2, Streamlare, Streamty, Upvideo,
+         Viwol, Voe
+
+   [COLOR yellow]SITUACION:[/COLOR]
+      [COLOR plum]Canales Inestables[/COLOR]:
+         AreaDocumental, Dilo
+
+      [COLOR teal]Canales que requieren Cuenta[/COLOR]:
+         HdFull, PlayDede
+
+      [COLOR cyan]Canales Temporalmente Inactivos[/COLOR]:
+         DescargaCineClasico, MiraDetodo, MundoKaos,
+         SeriesManta, VerPeliculasGratis, SerieZ
+
+      [COLOR red]Canales que pueden usar proxies[/COLOR] (Bloqueo operadoras):
+         CineTux, Cliver, CliverSite, Cuevana3, Dilo,
+         DixmaxLive, DocumaniaTv, DonTorrents, Gnula,
+         GranTorrent, HdFull, HdFullCom, Megadede2,
+         MejorTorrents, Newpct1, PctFenix, PelisGratis,
+         PelisHouse, PelisPlanet, PelisPlay, PlayView
+         SubTorrents, TorrentDivx
+
+   [COLOR yellow]RESUMENES:[/COLOR]
+      Numero de Canales:
+       124 Canales
+           3 Inestables
+           2 Requieren Cuenta
+           6 Temporalmente Inactivos
+         20 Inactivos
+         98 Disponibles
+
+      Distribucion Canales Disponibles:
+         65 de Peliculas
+         46 de Series
+         39 de Peliculas y Series
+           7 de Documentales
+         11 de Torrents 
+           7 de Animes
+           9 de Adultos
+           1 Privados
+
+      Numero de Servidores:
+       142 Servidores
+         53 Inactivos
+         18 Sin Soporte
+         89 Disponibles

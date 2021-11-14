@@ -1,0 +1,17 @@
+{
+  "id": "seriesflix",
+  "name": "SeriesFlix",
+  "thumbnail": "seriesflix.jpg",
+
+  "active": true,
+
+  "searchable": true,
+  "search_types": ["tvshow"],
+
+  "categories": ["tvshow"],
+  "language": ["cast", "lat", "vose"],
+
+  "clusters": ["producers", "countries", "kids", "docs", "vos"],
+
+  "notes": "Muchas series, por géneros, por productoras."
+}
